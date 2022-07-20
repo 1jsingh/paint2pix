@@ -5,6 +5,5 @@ intellipaint
 files
 __pycache__
 outputs
-docs
 pretrained_models
 *.dat
