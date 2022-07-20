@@ -1,0 +1,11 @@
+notebooks
+data
+face_seg
+intellipaint
+files
+__pycache__
+outputs
+docs
+pretrained_models
+*.dat
+environment
