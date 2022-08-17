@@ -13,6 +13,23 @@ or, (b) performing a diverse range of custom edits directly on real image inputs
 ## Description   
 Official implementation of our Paint2pix paper with streamlit demo. By using autonomous painting agents as a proxy for the human painting process, Paint2pix learns to predict *user-intention* ("what a user wants to draw") from fairly rudimentary paintings and user-scribbles.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+- [Pretrained Models](#pretrained-models)
+  * [Paint2pix models](#paint2pix-models)
+- [Using the Demo](#using-the-demo)
+- [Example Results](#example-results)
+  * [Progressive Image Synthesis](#progressive-image-synthesis)
+  * [Real Image Editing](#real-image-editing)
+  * [Artistic Content Generation](#artistic-content-generation)
+- [Acknowledgments](#acknowledgments)
+- [Citation](#citation)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Getting Started
 ### Prerequisites
 - Linux or macOS
