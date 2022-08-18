@@ -23,6 +23,18 @@ or, (b) performing a diverse range of custom edits directly on real image inputs
 ## Description   
 Official implementation of our Paint2pix paper with streamlit demo. By using autonomous painting agents as a proxy for the human painting process, Paint2pix learns to predict *user-intention* ("what a user wants to draw") from fairly rudimentary paintings and user-scribbles.
 
+## Updates
+
+* **(19/08/22)** Our [project demo](http://exposition.cecs.anu.edu.au:6009/) is online. Try generating amazing artwork or realistic image media right from your browser! 
+
+![Demo](https://user-images.githubusercontent.com/25987491/185323657-a71c239c-892c-4202-b753-a84c0bf19a30.mp4)
+
+https://user-images.githubusercontent.com/25987491/185323657-a71c239c-892c-4202-b753-a84c0bf19a30.mp4
+
+
+
+
+
 ## Table of Contents
 - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -38,6 +50,7 @@ Official implementation of our Paint2pix paper with streamlit demo. By using aut
 - [Citation](#citation)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Getting Started
