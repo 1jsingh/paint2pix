@@ -1,6 +1,14 @@
 # Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing (ECCV 2022)
 
+> Jaskirat Singh, Liang Zheng, Cameron Smith, Jose Echevarria
+>
 > Controllable image synthesis with user scribbles is a topic of keen interest in the computer vision community. In this paper, for the first time we study the problem of photorealistic image synthesis from incomplete and primitive human paintings. In particular, we propose a novel approach paint2pix, which learns to predict (and adapt) “what a user wants to draw” from rudimentary brushstroke inputs, by learning a mapping from the manifold of incomplete human paintings to their realistic renderings. When used in conjunction with recent works in autonomous painting agents, we show that paint2pix can be used for progressive image synthesis from scratch. During this process, paint2pix allows a novice user to progressively synthesize the desired image output, while requiring just few coarse user scribbles to accurately steer the trajectory of the synthesis process. Furthermore, we find that our approach also forms a surprisingly convenient approach for real image editing, and allows the user to perform a diverse range of custom fine-grained edits through the addition of only a few well-placed  brushstrokes.
+
+[[Paper](https://arxiv.org/abs/2208.08092)][[Project Page](https://1jsingh.github.io/paint2pix)][[Demo](http://exposition.cecs.anu.edu.au:6009/)][[Citation](#citation)]
+
+
+<!-- <a href="https://arxiv.org/abs/2201.13433"><img src="https://img.shields.io/badge/Paper-arXiv-red" height=22.5></a>
+<a href="https://arxiv.org/abs/2201.13433"><img src="https://img.shields.io/badge/Project Page-arXiv-red" height=22.5></a> -->
 
 <p align="center">
 <img src="https://1jsingh.github.io/assets/publications/images/paint2pix.png" width="800px"/>  
