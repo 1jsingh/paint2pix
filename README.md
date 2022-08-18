@@ -11,6 +11,7 @@
 <a href="https://1jsingh.github.io/paint2pix"><img src="https://img.shields.io/badge/Project-Page-succees?style=for-the-badge&logo=GitHub" height=22.5></a>
 <a href="http://exposition.cecs.anu.edu.au:6009/"><img src="https://img.shields.io/badge/Online-Demo-blue?style=for-the-badge&logo=Streamlit" height=22.5></a>
 <a href="#citation"><img src="https://img.shields.io/badge/Paper-Citation-green?style=for-the-badge&logo=Google%20Scholar" height=22.5></a>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2F1jsingh%2Fpaint2pix&text=Unleash%20your%20inner%20artist%20...%20synthesize%20amazing%20artwork%2C%20and%20realistic%20image%20content%20or%20simply%20perform%20a%20range%20of%20diverse%20real%20image%20edits%20using%20just%20coarse%20user%20scribbles.&hashtags=Paint2Pix%2CECCV2022"><img src="https://img.shields.io/badge/Share--white?style=for-the-badge&logo=Twitter" height=22.5></a>
 
 <p align="center">
 <img src="https://1jsingh.github.io/assets/publications/images/paint2pix.png" width="800px"/>  
@@ -26,8 +27,6 @@ Official implementation of our Paint2pix paper with streamlit demo. By using aut
 ## Updates
 
 * **(19/08/22)** Our [project demo](http://exposition.cecs.anu.edu.au:6009/) is online. Try generating amazing artwork or realistic image media right from your browser! 
-
-![Demo](https://user-images.githubusercontent.com/25987491/185323657-a71c239c-892c-4202-b753-a84c0bf19a30.mp4)
 
 https://user-images.githubusercontent.com/25987491/185323657-a71c239c-892c-4202-b753-a84c0bf19a30.mp4
 
