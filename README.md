@@ -72,7 +72,7 @@ Please download the following pretrained models essential for running the provid
 | :--- | :----------
 |[Canvas Encoder - ReStyle](https://drive.google.com/file/d/1ufKEtDXEG6o96KjLh-i6EL7Ir9TlwPcs/view?usp=sharing)  | Paint2pix Canvas Encoder trained with a ReStyle architecture.
 |[Identity Encoder - ReStyle](https://drive.google.com/file/d/1KT3YmSHgMJM3b7Ox9zciyo3FSELtJsyS/view?usp=sharing)  | Paint2pix Identity Encoder trained with a ReStyle architecture.
-|[StyleGAN - Watercolor Painting](https://drive.google.com/file/d/1KT3YmSHgMJM3b7Ox9zciyo3FSELtJsyS/view?usp=sharing)  | StyleGAN decoder network trained to generate watercolor paintings. Used for artistic content generation with paint2pix.
+|[StyleGAN - Watercolor Painting](https://drive.google.com/file/d/1WW_a589lv7R9-PNvKlVkVxITIZnW7xlv/view?usp=sharing)  | StyleGAN decoder network trained to generate watercolor paintings. Used for artistic content generation with paint2pix.
 |[IR-SE50 Model](https://drive.google.com/file/d/1U4q_o20uGMozSetOkMGddUcAWf_ons2-/view?usp=sharing) | Pretrained IR-SE50 model taken from [TreB1eN](https://github.com/TreB1eN/InsightFace_Pytorch) for use in ID loss and id-encoder training.
 
 
